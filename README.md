@@ -1,5 +1,7 @@
 # Gazebo_AutoPark_Simulation
+# 가즈보로 만든 자동주차 테스트를 위한 시뮬레이션입니다
 
+# How to Install and launch
 
 download catkin_ws/src
 
